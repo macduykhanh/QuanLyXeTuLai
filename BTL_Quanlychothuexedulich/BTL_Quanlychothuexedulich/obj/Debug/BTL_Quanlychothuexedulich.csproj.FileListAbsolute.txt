@@ -1,0 +1,194 @@
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csprojAssemblyReference.cache
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+C:\Users\quang\source\repos\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csprojAssemblyReference.cache
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+E:\Subjects\08_c#\BTL\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csprojAssemblyReference.cache
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csprojAssemblyReference.cache
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+E:\Subjects\08_c#\BTL_PhamIchQuang_2018604576_Quảnlýthuêxedulịch\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\Asus\Desktop\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.AssemblyReference.cache
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+D:\Study\Window\Document\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\nguye\Downloads\Compressed\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\_Quảnlýthuêxedulịch_ - Copy\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\Asus\Desktop\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csprojAssemblyReference.cache
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+E:\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csprojAssemblyReference.cache
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csprojAssemblyReference.cache
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MenuDangnhap.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.MainMenu.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Properties.Resources.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeAdmin.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.QuanLyXeForm.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.Thongtinkhachhang.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.ThuexeForm.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.TraxeForm.resources
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.GenerateResource.cache
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe.config
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.exe
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\BTL_Quanlychothuexedulich.pdb
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\EntityFramework.dll
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\EntityFramework.xml
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Documents\Lập trình WINDOWN\_Quản lý thuê xe du lịch_\BTL_Quanlychothuexedulich\BTL_Quanlychothuexedulich\obj\Debug\BTL_Quanlychothuexedulich.csproj.CopyComplete
